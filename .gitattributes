@@ -1,0 +1,12 @@
+big_building.tiff filter=lfs diff=lfs merge=lfs -text
+big_building.y4m filter=lfs diff=lfs merge=lfs -text
+big_building.ycbcr filter=lfs diff=lfs merge=lfs -text
+big_building.yuv filter=lfs diff=lfs merge=lfs -text
+big_building.png filter=lfs diff=lfs merge=lfs -text
+big_building.ppm filter=lfs diff=lfs merge=lfs -text
+big_tree.png filter=lfs diff=lfs merge=lfs -text
+big_tree.ppm filter=lfs diff=lfs merge=lfs -text
+big_tree.tiff filter=lfs diff=lfs merge=lfs -text
+big_tree.y4m filter=lfs diff=lfs merge=lfs -text
+big_tree.ycbcr filter=lfs diff=lfs merge=lfs -text
+big_tree.yuv filter=lfs diff=lfs merge=lfs -text
